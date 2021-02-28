@@ -3,7 +3,7 @@ using System.IO;
 
 namespace BorderlandsGunComparer
 {
-    class Program
+    public class Program
     {
         public static void Main(string[] args)
         {
