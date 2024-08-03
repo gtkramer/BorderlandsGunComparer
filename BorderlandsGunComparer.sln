@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderlandsGunComparer.CLI", "BorderlandsGunComparer.CLI\BorderlandsGunComparer.CLI.csproj", "{EF925EDF-8267-43C3-9573-4B8C096D64B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderlandsGunComparer.Tests", "BorderlandsGunComparer.Tests\BorderlandsGunComparer.Tests.csproj", "{650C40EE-CA38-4DA5-9E47-954DB2014A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF925EDF-8267-43C3-9573-4B8C096D64B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF925EDF-8267-43C3-9573-4B8C096D64B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF925EDF-8267-43C3-9573-4B8C096D64B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF925EDF-8267-43C3-9573-4B8C096D64B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650C40EE-CA38-4DA5-9E47-954DB2014A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650C40EE-CA38-4DA5-9E47-954DB2014A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650C40EE-CA38-4DA5-9E47-954DB2014A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650C40EE-CA38-4DA5-9E47-954DB2014A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
